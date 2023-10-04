@@ -471,7 +471,7 @@ input:checked + .sliderround:before {
     right: 0;
     top: 75px;
     background-color: var(--background);
-    opacity: 0.8;
+    opacity: 0.9;
 }
 .header2 a{
     text-decoration: none;
@@ -613,7 +613,7 @@ section>h2{
     box-shadow: 3px 3px 5px var(--text), -3px -3px 5px var(--text);
 }
 /* Experience - Contents Page */
-#mlp{
+#wdd{
     scroll-margin-top: 150px;
 }
 .exp{
